@@ -1,7 +1,7 @@
 <h1 align="center">Mapa Interactivo de la Facultad de Matemáticas - UADY</h1>
 <h2 align="center">CampusMap</h2>
 
-Bienvenido al proyecto CampusMap. Esta aplicación está sido diseñada para facilitar la navegación y mejorar la experiencia de los estudiantes, profesores y visitantes en la Facultad de Matemáticas de la Universidad Autónoma de Yucatán (UADY). A través de un mapa interactivo, los usuarios podrán explorar el campus de manera visual e intuitiva, localizando aulas, oficinas administrativas, áreas comunes y otros puntos de interés dentro de la facultad.
+Bienvenido al proyecto CampusMap. Esta aplicación está siendo diseñada para facilitar la navegación y mejorar la experiencia de los estudiantes, profesores y visitantes en la Facultad de Matemáticas de la Universidad Autónoma de Yucatán (UADY). A través de un mapa interactivo, los usuarios podrán explorar el campus de manera visual e intuitiva, localizando aulas, oficinas administrativas, áreas comunes y otros puntos de interés dentro de la facultad.
 
 ### 🛠️ Herramientas</h2>
 
