@@ -10,7 +10,8 @@ Documentos que se encouentran en esta seccion:
 1. Priorizacion.pdf
 2. Requisitos.pdf
 
-En esta seccion se encuetran el metodo de Priorizacion usado para los requerimientos en la primera entrega y el documento de Reqeusitos funcionales y no funcionales
+En esta seccion se encuetra el metodo de Priorizacion usado para los requerimientos de la primera entrega y el documento de Requisitos funcionales y no funcionales
+
 
 Hipervinculos:
 
@@ -19,23 +20,30 @@ Priorizacion.pdf
 Requisitos.pdf
 
 
+
 Artefactos de la segunda entrega (Encabezado)
 
-En esta seccion se encuentran los artefactos de la segunda entrega divididos en dos secciones, Documentos para edicion y Documentos para entrega
+En esta seccion se encuentran los artefactos de la segunda entrega divididas en dos secciones, Documentos para edicion y Documentos para entrega
 
-Documentos de edicion 
+
+Documentos para edicion 
 1. Historias de usuario (segunda entrega).docx
 2. Requerimientos Funcionales (Segunda entrega).docx
 
-en esta seccion se encuetran los artefactos en formatod .docx para facilitar su edicion para commits futuros
+
+en esta seccion se encuetran los artefactos en formato .docx para facilitar su edicion para commits futuros
+
 
 Documentos para entrega
 1. Historias de usuario (segunda entrega).pdf
 2. Requerimientos Funcionales (Segunda Entrega).pdf
 
-en esta seccion se encuetran los artefactos de la segunda entrega pero en formato pdf para la entrega
+
+en esta seccion se encuetran los mismos artefactos pero en formato pdf para la entrega final
+
 
 Hipervinculos:
+
 
 Documentos en .docx
 Historias de usuario (segunda entrega).docx
