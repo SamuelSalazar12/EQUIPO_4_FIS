@@ -1,9 +1,10 @@
-RAMA DE COUOH MIS GUILLERMO (Encabezado prrincipal
+RAMA DE COUOH MIS GUILLERMO (Encabezado prrincipal)
+
 En esta rama se encuentran los artefactos realizados por Couoh Mis Guillermo
 
 esta rama se divido en dos secciones: (encabezado)
 
-Artefactos de la Primera entrega (encabezado)
+Artefactos de la Primera entrega: (encabezado)
 
 Documentos que se encouentran en esta seccion:
 1. Priorizacion.pdf
@@ -12,11 +13,14 @@ Documentos que se encouentran en esta seccion:
 En esta seccion se encuetran el metodo de Priorizacion usado para los requerimientos en la primera entrega y el documento de Reqeusitos funcionales y no funcionales
 
 Hipervinculos:
+
 Priorizacion.pdf
+
 Requisitos.pdf
 
 
 Artefactos de la segunda entrega (Encabezado)
+
 En esta seccion se encuentran los artefactos de la segunda entrega divididos en dos secciones, Documentos para edicion y Documentos para entrega
 
 Documentos de edicion 
