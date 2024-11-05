@@ -10,6 +10,6 @@ Carrillo Alvarado Maximiliano [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_
 
 Couoh Miss Guillermo [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/PD/PD/PD2/CouohMissGuillermo/PD2.md)
 
-Escorza Axel [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/PD/PD/PD2/EscorzaAxel/PD2.md)
+Escorza Gutierrez Axel [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/PD/PD/PD2/EscorzaAxel/PD2.md)
 
-Ovando Natalia [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/PD/PD/PD2/OvandoNatalia/PD2.md)
+Ovando Lavariega Natalia [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/PD/PD/PD2/OvandoNatalia/PD2.md)
