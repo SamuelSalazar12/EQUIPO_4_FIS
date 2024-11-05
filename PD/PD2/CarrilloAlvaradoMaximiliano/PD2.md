@@ -7,10 +7,13 @@ Quiero: Un chat que me permita chatear con mi tutor/ar
 Para: Poder hablar con mi tutor/ar de una manera más directa y a distancia sin la necesidad de encontrarnos en persona
 
 
+
 Descripción: Para entrar al chat con el tutor el usuario y el tutor necesitaran de su correo institucional, después del acceso al chat el usuario será capaz de mandar y recibir mensajes de parte del tutor asignado, además, podrán mandar imágenes, archivos, audios y grabar notas de voz/video
 
 
+
 Criterios de aceptación
+
 
 
 •	La interfaz del chat saldrá después de acceder por medio del correo institucional
