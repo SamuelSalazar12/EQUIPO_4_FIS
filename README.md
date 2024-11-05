@@ -1,6 +1,6 @@
 ### Reuniones
 
-Aprovechando la ventaja vernos entre semana en la escuela, decidimos establecer pequeñas reuniones presenciales para hablar sobre el estado del proyecto, no establesimos una fecha exacta para hacerlas más bien, confome veiamos la necesidad de dar algun aviso las programabamos. Algunas son dedicadas a ayudar a miembros a manejar cierta herramienta, otras dedicadas exclusivamente a resolver dudas y otras para hablar sobre las tareas del sprint.
+Aprovechando la ventaja vernos entre semana en la escuela, decidimos establecer pequeñas reuniones presenciales para hablar sobre el estado del proyecto, no establecimos una fecha exacta para hacerlas más bien, confome veiamos la necesidad de dar algun aviso las programabamos. Algunas son dedicadas a ayudar a miembros a manejar cierta herramienta, otras dedicadas exclusivamente a resolver dudas y otras para hablar sobre las tareas del sprint.
 
 Tabla de contenidos: 
 
