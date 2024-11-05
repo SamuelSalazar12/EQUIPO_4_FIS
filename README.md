@@ -8,7 +8,7 @@ Caamal Tencle Mateo [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/P
 
 Carrillo Alvarado Maximiliano [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/PD/PD/PD2/CarrilloAlvaradoMaximiliano/PD2.md)
 
-Couoh Miss Guillermo [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/PD/PD/PD2/CouohMissGuillermo/PD2.md)
+Couoh Miss Guillermo [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/PD/PD/PD2/CouohMissGuillermo)
 
 Escorza Gutierrez Axel [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/PD/PD/PD2/EscorzaAxel/PD2.md)
 
