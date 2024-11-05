@@ -21,9 +21,9 @@ Bienvenido al proyecto CampusMap. Esta aplicación está siendo diseñada para f
 ### Contribuidores
 | Nombre | Rama Personal |
 | :---        |    :----:   | 
-| SamuelSalazar12      | [Cauich_Salazar_Samuel](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/Segunda_Entrega) |
+| SamuelSalazar12      | [Cauich_Salazar_Samuel](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/Cauich_Salazar_Samuel) |
 | AxelEscorza | [Escorza-Axel](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/Escorza-Axel) |
-| Guillermo-UD | [Couoh_Miss_Guillermo](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/Escorza-Axel) |
+| Guillermo-UD | [Couoh_Miss_Guillermo](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/Couoh_Mis_Guillermo) |
 | MateoAlejandroCaamalTencle | [Caamal_Tencle_Mateo](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/Caamal_Tencle_Mateo) |
 | Maximiliano Carrillo Alvarado | [Carrillo_Alvarado_Maximiliano](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/Carrillo_Alvarado_Maximiliano) |
 | NataliaOL | [Ovando_Natalia](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/Ovando_Natalia) |
