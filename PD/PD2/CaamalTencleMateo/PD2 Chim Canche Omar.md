@@ -1,4 +1,4 @@
-*TRABAJO DE CHIN CANCHE OMAR SEBASTIAN*
+*TRABAJO DE CHIM CANCHE OMAR SEBASTIAN*
 
 Requerimiento funcional del proyecto del equipo 1:
 - Presentar una información breve acerca de las materias.
