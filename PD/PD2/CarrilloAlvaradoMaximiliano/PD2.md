@@ -26,5 +26,8 @@ Criterios de aceptación
 
 •	El usuario y el tutor deben poder salir del chat en cualquier momento y regresar sin que los mensajes se pierdan, borren o anden en desorden
 
+![image](https://github.com/user-attachments/assets/4fbff4f9-af80-4998-8f49-17f727f26425)
+
+
 
 ![GonzalesAlcocerFabio_PD2](https://github.com/user-attachments/assets/d8175fe4-c1f9-4064-bb78-5a76e101f8d1)
