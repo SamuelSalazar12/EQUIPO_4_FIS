@@ -11,7 +11,7 @@ Bienvenido al proyecto CampusMap. Esta aplicación está siendo diseñada para f
 
 
 
-### Tabla de Contenidos
+### Entregas
 | Rama      | Descripción General |
 | :---        |    :----:   |        
 | [Primera_Entrega](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/Primera-Entrega)      | Conjunto de artefactos producidos en la primera entrega       | 
@@ -27,3 +27,30 @@ Bienvenido al proyecto CampusMap. Esta aplicación está siendo diseñada para f
 | MateoAlejandroCaamalTencle | [Caamal_Tencle_Mateo](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/Caamal_Tencle_Mateo) |
 | Maximiliano Carrillo Alvarado | [Carrillo_Alvarado_Maximiliano](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/Carrillo_Alvarado_Maximiliano) |
 | NataliaOL | [Ovando_Natalia](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/Ovando_Natalia) |
+
+
+### Consulta nuestras reuniones:
+
+### Primera entrega
+| Numero de reunion      | Vinculo |
+| :---        |    :----:   |
+| 1      | [R1](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/Reuniones/Reuniones_Primera_Entrega/R1.md) |
+| 2      | [R2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/Reuniones/Reuniones_Primera_Entrega/R2.md) |
+
+### Segunda entrega
+| Numero de reunion      | Vinculo |
+| :---        |    :----:   |   
+| 1    | [R1](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/Reuniones/Reuniones_Segunda_Entrega/R1.md) |
+| 2     | [R2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/Reuniones/Reuniones_Segunda_Entrega/R2.md) |
+| 3      | [R3](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/Reuniones/Reuniones_Segunda_Entrega/R3.md) |
+| 4    | [R4](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/Reuniones/Reuniones_Segunda_Entrega/R4.md) |
+| 5     | [R5](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/Reuniones/Reuniones_Segunda_Entrega/R5.md) |
+| 6     | [R6](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/Reuniones/Reuniones_Segunda_Entrega/R6.md) |
+
+### Info de nuestros Sprints:
+
+[Sprint 1](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/Sprints/Sprint%201.md)
+
+[Sprint 2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/Sprints/Sprint%202.md)
+
+[Sprint 3](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/Sprints/Sprint%203.md)
