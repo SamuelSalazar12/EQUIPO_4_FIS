@@ -4,7 +4,7 @@ Prueba de desempeño 2
 
 Cauich Salazar Samuel [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/PD/PD/PD2/CauichSalazarSamuel/PD2.md)
 
-Caamal Tencle Mateo [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/PD/PD/PD2/CaamalTencleMateo/PD2.md)
+Caamal Tencle Mateo [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/tree/PD/PD/PD2/CaamalTencleMateo)
 
 Carrillo Alvarado Maximiliano [PD2](https://github.com/SamuelSalazar12/EQUIPO_4_FIS/blob/PD/PD/PD2/CarrilloAlvaradoMaximiliano/PD2.md)
 
