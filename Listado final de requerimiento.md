@@ -28,7 +28,12 @@ El sistema permitirá a los usuarios buscar aulas de clase, edificios, cubículo
 
 7. Creación de horarios: 
 
-El usuario registrado con correo institucional podrá crear y borrar horarios, que haya creado, dentro de la interfaz de gestor de horario 
+El usuario registrado con correo institucional podrá crear horarios
+
+
+
+![image](https://github.com/user-attachments/assets/df0a81cf-8856-4012-a581-7a8fbab02d13)
+
 
 
 ### Rrequerimientos no funcionales
